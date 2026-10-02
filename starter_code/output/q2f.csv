@@ -1,0 +1,9 @@
+Coefficient,Feature Name
+4.2773,max_Bilirubin
+2.3267,max_Lactate
+2.0796,max_BUN
+2.0638,max_HR
+-0.6992,Weight
+-1.1296,max_PaO2
+-3.4688,max_Urine
+-3.6393,max_GCS

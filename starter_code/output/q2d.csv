@@ -1,0 +1,8 @@
+Performance Measure,C,Penalty,Median,95% CI
+accuracy,1.0,l1,0.8750,"(0.8425, 0.9100)"
+precision,1.0,l1,0.6452,"(0.4615, 0.8109)"
+f1_score,1.0,l1,0.4444,"(0.3077, 0.5536)"
+auroc,1.0,l1,0.8617,"(0.8130, 0.9053)"
+average_precision,1.0,l1,0.5540,"(0.4303, 0.6716)"
+sensitivity,1.0,l1,0.3333,"(0.2222, 0.4584)"
+specificity,1.0,l1,0.9680,"(0.9475, 0.9851)"

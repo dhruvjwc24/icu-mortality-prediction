@@ -1,0 +1,8 @@
+Performance Measure,Median,95% CI
+accuracy,0.3675,"(0.3225, 0.4200)"
+precision,0.1863,"(0.1402, 0.2318)"
+f1_score,0.3151,"(0.2534, 0.3747)"
+auroc,0.8371,"(0.7859, 0.8871)"
+average_precision,0.5123,"(0.3859, 0.6327)"
+sensitivity,0.9833,"(0.9444, 1.0000)"
+specificity,0.2616,"(0.2153, 0.3065)"
